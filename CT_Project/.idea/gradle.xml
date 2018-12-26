@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleSettings">
+    <option name="linkedExternalProjectsSettings">
+      <GradleProjectSettings>
+        <option name="distributionType" value="LOCAL" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$/ct_web" />
+        <option name="gradleHome" value="$PROJECT_DIR$/../../../springCode/gradle-4.7-all/gradle-4.7" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/ct_web" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+    </option>
+  </component>
+</project>
